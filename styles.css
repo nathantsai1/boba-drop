@@ -1,0 +1,14 @@
+.navbar {
+    width: 100%;
+    height: 75px;
+    background-color: #305cde;
+    grid-template-columns: 2;
+    margin: 0px;
+    display: flex;
+    flex-direction: row;
+}
+
+.part {
+    width: 20%;
+    height: 75px;
+}
